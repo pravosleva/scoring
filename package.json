@@ -1,5 +1,5 @@
 {
-  "name": "scoring",
+  "name": "scoring-p",
   "version": "0.0.1",
   "description": "Scoring module",
   "main": "dist/index.js",
